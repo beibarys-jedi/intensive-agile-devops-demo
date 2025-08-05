@@ -1,0 +1,9 @@
+# ignore files
+
+Thums.db
+
+tmp/
+
+*.txt
+
+
